@@ -1,4 +1,4 @@
-# Chapter 5: Similarity Search with PostgreSQL and pgvector
+# Chapter 5: Building an ArXiv Paper Search System with PostgreSQL pgvector
 # O'Reilly Vector Database Book - Complete Code Examples
 
 # ================================================================================
