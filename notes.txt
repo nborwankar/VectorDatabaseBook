@@ -1,0 +1,3 @@
+This version of VQL is much more fully featured than the book one, but needs technical review.
+The goal is to create something extensible into vector space and manifold operations so that vector transformations on embeddings can be experimented with, compactly and easily. 
+These transformations can be run in memory or can be run on a database with persistence but that case will require robust managment of data movemnt to and from persistent store.
